@@ -8,8 +8,8 @@ The purpose of developing this movie theater application is to provide convenien
 
 C.Design
 System design
-Use case: description each actor and use case
-Sequence
+Use case: description each actor and use case, here the link for the UseCase (https://drive.google.com/file/d/11kF7C8ja2IFHscXyhWkbzNOusbSIoqpW/view?usp=sharing)
+Sequence Diagram, same file (https://drive.google.com/file/d/11kF7C8ja2IFHscXyhWkbzNOusbSIoqpW/view?usp=sharing)
 Class diagram
 Action / flow chart
 2. User interface
