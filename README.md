@@ -12,6 +12,7 @@ Use case: description each actor and use case, here the link for the UseCase (ht
 Sequence Diagram, same file (https://drive.google.com/file/d/11kF7C8ja2IFHscXyhWkbzNOusbSIoqpW/view?usp=sharing)
 Class diagram
 Action / flow chart
+wireframe ( https://www.figma.com/design/ABzPWWJQWzs7HpGhRrJy15/CinemApp---High-fidelity-wireframe--Community-?node-id=0-1&p=f&t=2sdDd8B2bqmDMMRN-0 )
 2. User interface
 Navigation struktur
 wireframe/ mockup
